@@ -1,19 +1,19 @@
 ### Movie Search
 
-Este projeto é o MovieSearch e consiste numa aplicação Vue.js que permite aos utilizadores pesquisar filmes e séries de TV utilizando a API OMDb.
-Algumas das funcionalidades deste projeto incluem:
--Alteração entre mode claro e mode escuro(com peristência de dados);
--Autenticação de utilizadores;
--Possibilidade de adicionar filmes a uma lista de favoritos(com persistência de dados).
+- Este projeto é o MovieSearch e consiste numa aplicação Vue.js que permite aos utilizadores pesquisar filmes e séries de TV utilizando a API OMDb.
+- Algumas das funcionalidades deste projeto incluem:
+   - Alteração entre mode claro e mode escuro(com peristência de dados);
+   - Autenticação de utilizadores;
+   - Possibilidade de adicionar filmes a uma lista de favoritos(com persistência de dados).
 
 
 ## FUNCIONALIDADES
 
--Pesquisa de filmes e séries;
--Visualização de detalhes dos filmes selecionados;
--Adição e remoção de filmes dos favoritos;
--Alteração do tema da página(mode escuro ou mode claro);
--Auteticação de utilizadores(registo, login, logout).
+- Pesquisa de filmes e séries;
+- Visualização de detalhes dos filmes selecionados;
+- Adição e remoção de filmes dos favoritos;
+- Alteração do tema da página(mode escuro ou mode claro);
+- Auteticação de utilizadores(registo, login, logout).
 
 
 ## Estrutura do Projeto
@@ -29,7 +29,7 @@ Algumas das funcionalidades deste projeto incluem:
    - 'Register.vue': Página de registo de utilizadores;
    - 'SignIn.vue': Página de login de utilizadores.
 
--'App.vue': Componente principal da aplicação.
+- 'App.vue': Componente principal da aplicação.
 
 
 ## Execução do Projeto
