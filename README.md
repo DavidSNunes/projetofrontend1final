@@ -1,4 +1,4 @@
-### Movie Search
+## Movie Search
 
 - Este projeto é o MovieSearch e consiste numa aplicação Vue.js que permite aos utilizadores pesquisar filmes e séries de TV utilizando a API OMDb.
 - Algumas das funcionalidades deste projeto incluem:
