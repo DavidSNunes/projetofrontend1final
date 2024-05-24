@@ -34,11 +34,14 @@
     }
   };
 
+  const emit = defineEmits(['dark-mode-changed']);
 
-  watch(isDark, (newValue) => {
+  watch(isDark, (newValue, _, onInvalidate) => {
     applyDarkMode();
   
-    emit('dark-mode-changed', newValue);
+    onInvalidate(() => {
+      emit('dark-mode-changed', newValue);
+    });
   });
 
   watch(user, (newUser) => {
