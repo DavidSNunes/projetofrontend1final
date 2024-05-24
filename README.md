@@ -37,6 +37,7 @@
 ### Pré-requisitos:
    - Node.js instalado;
    - Vue CLI instalada;
+   - Executar o comando " npm i ", para instalar as dependências;
    - Ter uma chave de API;
    - Configuração do Firebase para autenticação.
 
@@ -65,6 +66,12 @@
    - Executar o comando "vue ui" no Node.js command prompt;
    - Na secção do Project tasks selecionar o serve;
    - Dar Run task;
+
+OU
+
+   - Iniciar o terminal do Visual Studio Code;
+   - Executar o comando "npm run serve";
+   - Usar o link do Local.
 
 ### Utilização da "MovieSearch" app
    - Realizar Login com o email: teste@gmail.com e palavra-passe:1234abcd;
