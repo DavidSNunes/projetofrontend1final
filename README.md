@@ -13,7 +13,7 @@
 - Visualização de detalhes dos filmes selecionados;
 - Adição e remoção de filmes dos favoritos;
 - Alteração do tema da página(mode escuro ou mode claro);
-- Auteticação de utilizadores(registo, login, logout).
+- Autenticação de utilizadores(registo, login, logout).
 
 
 ## 📁Estrutura do Projeto
